@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  font-family: Nunito;
+}
+
+body {
+  font-family: Nunito, Roboto, Arial, sans-serif;
+  padding: 30px 20%;
+  background: #4D6FE5;
+}
+
+.App-link {
+  color: #61dafb;
+}
