@@ -177,7 +177,7 @@ class MemeForm extends React.Component {
                         posts: users,
                       });
                     })
-                  resetForm(values)
+                  resetForm();
                   console.log(response);
                 })
                 .catch(function (error) {
