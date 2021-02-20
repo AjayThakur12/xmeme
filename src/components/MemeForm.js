@@ -214,9 +214,9 @@ class MemeForm extends React.Component {
                   }
 
                 });
-              this.state.name = "";
-              this.state.url = "";
-              this.state.caption = "";
+              currentComponent.state.name = "";
+              currentComponent.state.url = "";
+              currentComponent.state.caption = "";
             }}
           >
             {({ errors, handleChange, touched }) => (
