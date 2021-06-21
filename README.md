@@ -6,4 +6,5 @@ https://heuristic-galileo-942204.netlify.app/
 
 # Image
 
-<img width="976" alt="chdck" src="https://user-images.githubusercontent.com/29337604/107985315-df59c000-6fef-11eb-8a01-11da65717517.png">
+<img width="1147" alt="Screenshot 2021-06-21 at 2 03 38 PM" src="https://user-images.githubusercontent.com/29337604/122732116-936aa080-d299-11eb-918a-d020c69332b1.png">
+
